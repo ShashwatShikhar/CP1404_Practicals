@@ -1,7 +1,7 @@
 
 class Car:
 
-    def __init__(self, fuel=0, name=""):
+    def __init__(self, fuel=0, name="mercedes"):
         self.name = name
         self.fuel = fuel
         self.odometer = 0
